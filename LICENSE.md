@@ -1,4 +1,4 @@
-# 
+# Código abierto Augment Code herramientas. Con procesamiento de baja latencia y ajuste fino — optimizado para el máximo rendimiento y eficiencia.
 
 
 
